@@ -429,8 +429,3 @@ Output: Performance forecasts and risk alerts
 - Blockchain-based credential verification
 
 ---
-
-**Author**: [Your Name]
-**Academic Year**: [Year]
-**Course**: Final Year Project
-**Institution**: [Your Institution]
